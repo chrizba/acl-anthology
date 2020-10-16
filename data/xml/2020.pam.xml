@@ -3,8 +3,10 @@
   <volume id="1" ingest-date="2020-10-13">
     <meta>
       <booktitle>Proceedings of the Probability and Meaning Conference (PaM 2020)</booktitle>
-      <editor><first>Stergios</first><last>Chatzikyriakidis</last></editor>
       <editor><first>Christine</first><last>Howes</last></editor>
+      <editor><first>Stergios</first><last>Chatzikyriakidis</last></editor>
+      <editor><first>Adam</first><last>Ek</last></editor>
+      <editor><first>Vidya</first><last>Somashekarappa</last></editor>
       <publisher>Association for Computational Linguistics</publisher>
       <address>Gothenburg</address>
       <month>June</month>
